@@ -11,4 +11,3 @@ vite.config.ts.timestamp-*
 .wrangler
 /.next
 .next
-.test
