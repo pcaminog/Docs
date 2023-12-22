@@ -1,9 +1,9 @@
 ---
 title: Close Alert  
-nextjs:
+nextjs: 
   metadata:
-    title: 'How to Close Alerts in mon1tor - User Guide'
-    description: 'Discover how to manually or automatically close alerts in mon1tor and understand how it affects your monitor's status.'
+    title: How to Close Alerts in mon1tor - User Guide
+    description: Discover how to manually or automatically close alerts in mon1tor and understand how it affects your monitor's status.
 ---
 
 

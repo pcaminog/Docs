@@ -2,8 +2,8 @@
 title: Notification Types
 nextjs:
   metadata:
-    title: 'Notification Types Available in mon1tor - Overview'
-    description: 'Explore the various notification types in mon1tor, including email, webhooks, and IM, and understand when to use each.'
+    title: Notification Types Available in mon1tor - Overview
+    description: Explore the various notification types in mon1tor, including email, webhooks, and IM, and understand when to use each.
 ---
 
 In mon1tor, staying informed about your monitor's status is key to timely responses and efficient management. To cater to diverse preferences and operational needs, mon1tor offers several types of notifications: Email, Webhooks, and Instant Messaging (IM) including Slack, Google Chat, and Microsoft Teams. Understanding the benefits and use cases of each can help you choose the best fit for your needs.

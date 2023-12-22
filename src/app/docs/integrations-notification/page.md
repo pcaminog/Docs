@@ -2,8 +2,8 @@
 title: Integrations Notification
 nextjs:
   metadata:
-    title: 'Integrations for Notifications in mon1tor - Slack, Google Chat, and Teams'
-    description: 'Enhance mon1tor alerts with integrations for Slack, Google Chat, and Microsoft Teams. Follow our guide for easy setup.'
+    title: Integrations for Notifications in mon1tor - Slack, Google Chat, and Teams
+    description: Enhance mon1tor alerts with integrations for Slack, Google Chat, and Microsoft Teams. Follow our guide for easy setup.
 ---
 
 mon1tor provides seamless integration with popular communication platforms: Slack, Google Chat, and Microsoft Teams. These integrations enable you to receive alerts directly in your team's communication channels, enhancing the speed and efficiency of your response. This guide outlines the steps to set up notifications for each platform.

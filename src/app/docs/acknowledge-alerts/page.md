@@ -2,8 +2,8 @@
 title: Acknowledge Alert  
 nextjs:
   metadata:
-    title: 'Acknowledging Alerts in mon1tor - Feature Overview'
-    description: 'Find out how to acknowledge alerts in mon1tor to temporarily mute notifications while keeping the monitor's status active.'
+    title: Acknowledging Alerts in mon1tor - Feature Overview
+    description: Find out how to acknowledge alerts in mon1tor to temporarily mute notifications while keeping the monitor's status active.
 ---
 
 

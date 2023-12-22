@@ -2,8 +2,8 @@
 title: Code HTTP Monitor  
 nextjs:
   metadata:
-    title: 'Code HTTP Monitor Configuration - mon1tor'
-    description: 'Set up a Code HTTP Monitor with mon1tor to track specific HTTP response codes. Customize your monitoring for redirects, errors, and more.'
+    title: Code HTTP Monitor Configuration - mon1tor
+    description: Set up a Code HTTP Monitor with mon1tor to track specific HTTP response codes. Customize your monitoring for redirects, errors, and more.
 ---
 
 

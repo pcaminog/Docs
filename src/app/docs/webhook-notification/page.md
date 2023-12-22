@@ -2,8 +2,8 @@
 title: Webhook Notification
 nextjs:
   metadata:
-    title: 'Configuring Webhook Notifications in mon1tor'
-    description: 'Integrate real-time webhook notifications in mon1tor. Learn how to set up and validate your endpoint for secure communication.'
+    title: Configuring Webhook Notifications in mon1tor
+    description: Integrate real-time webhook notifications in mon1tor. Learn how to set up and validate your endpoint for secure communication.
 ---
 
 Webhook notifications in mon1tor offer a dynamic way to integrate alerts into your custom applications or systems. By configuring a webhook, you can receive real-time notifications directly to your specified endpoint. This guide details the setup process for webhook notifications, including endpoint validation and signature verification.
