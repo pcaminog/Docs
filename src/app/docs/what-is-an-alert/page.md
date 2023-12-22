@@ -1,5 +1,9 @@
 ---
 title: What is an Alert?
+nextjs:
+  metadata:
+    title: 'Understanding Alerts in mon1tor - Notification Insights'
+    description: 'Learn when and how alerts are generated in mon1tor, how they are associated with your monitors, and the notification process involved.'
 ---
 
 In mon1tor, an alert is a crucial notification mechanism that informs you of any issues detected with your monitored services. Alerts are generated based on specific conditions set in your monitor configurations. This page explains when and how alerts are triggered, their components, and the notification process.

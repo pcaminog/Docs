@@ -1,5 +1,9 @@
 ---
 title: Email Notification
+nextjs:
+  metadata:
+    title: 'Email Notifications in mon1tor - Setup Guide'
+    description: 'Set up and manage email notifications in mon1tor. Understand the verification process to ensure you receive timely updates.'
 ---
 
 Email notifications in mon1tor are a straightforward and effective way to stay updated on the status of your monitors. Setting up email notifications is a simple process, and it's important to understand the key steps and guidelines to ensure you receive timely alerts. This guide walks you through configuring email notifications and the verification process.

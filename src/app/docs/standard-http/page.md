@@ -1,5 +1,9 @@
 ---
 title: Standard HTTP Monitor  
+nextjs:
+  metadata:
+    title: 'Standard HTTP Monitor Setup - mon1tor'
+    description: 'Configure your Standard HTTP Monitor with mon1tor. Understand the key settings like response codes, timeout, and more for effective monitoring.'
 ---
 
 

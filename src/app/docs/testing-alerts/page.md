@@ -1,5 +1,9 @@
 ---
 title: Testing Alert  
+nextjs:
+  metadata:
+    title: 'Testing Alerts in mon1tor - Simulation Guide'
+    description: 'Learn how to test alert notifications in mon1tor across different channels, ensuring your setup is effective and reliable.'
 ---
 
 

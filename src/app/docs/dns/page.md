@@ -1,6 +1,9 @@
 ---
 title: DNS Monitor  
-
+nextjs:
+  metadata:
+    title: 'DNS Monitoring with mon1tor - Configuration Guide'
+    description: 'Ensure your DNS's health with mon1tor's DNS Monitor. Learn how to track hostname changes against expected IP addresses.'
 ---
 
 
