@@ -18,7 +18,7 @@ mon1tor provides seamless integration with popular communication platforms: Slac
   2. Navigate to the space where you want to add the webhook.
   3. Click on the "Apps & integrations" option near the space title.
   4. Choose "Add webhooks".
-  5. Enter "mon1tor Webhook" as the name and use `https://developers.google.com/chat/images/chat-product-icon.png` for the Avatar URL.
+  5. Enter "mon1tor Webhook" as the name and use `https://static.mon1tor.com/logo+name_mon1tor.png` for the Avatar URL.
   6. Save and copy the webhook URL provided. This URL will be used in mon1tor to send notifications to your Google Chat space.
 
 ## Microsoft Teams Integration
