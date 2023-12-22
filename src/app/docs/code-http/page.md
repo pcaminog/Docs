@@ -3,7 +3,6 @@ title: Code HTTP Monitor
 
 ---
 
-# Code HTTP Monitor
 
 The Code HTTP Monitor in mon1tor offers a flexible approach to HTTP monitoring by allowing you to specify the expected HTTP response codes. This feature is particularly useful for monitoring redirects, error pages, or any other specific HTTP responses. The guide below outlines the settings and steps to configure a Code HTTP Monitor.
 

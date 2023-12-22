@@ -2,7 +2,7 @@
 title: Standard HTTP Monitor  
 ---
 
-# Standard HTTP Monitor
+
 
 Standard HTTP Monitoring in mon1tor is a robust tool for ensuring the availability and performance of your web services. This type of monitor checks for successful HTTP responses (status codes in the 2XX range) and alerts you if the responses deviate from this range. This guide details the settings available for configuring a Standard HTTP Monitor.
 
