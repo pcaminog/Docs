@@ -23,11 +23,11 @@ const lexend = localFont({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - Docs',
-    default: 'CacheAdvance - Never miss the cache again.',
+    template: '%s - mon1tor Docs',
+    default: 'mon1tor Docs',
   },
   description:
-    'Cache every single thing your app could ever do ahead of time, so your code never even has to run at all.',
+    'Stay ahead of the curve and keep your systems in check with unparalleled precision. mon1tor provides you with the essential tools to oversee your digital assets effectively.',
 }
 
 export default function RootLayout({
