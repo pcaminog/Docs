@@ -41,8 +41,6 @@ function Header() {
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
-  let pathname = usePathname()
-  let isHomePage = pathname === '/'
 
   return (
     <div className="flex w-full flex-col">
