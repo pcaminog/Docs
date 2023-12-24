@@ -9,11 +9,9 @@ import { Logo, Logomark } from '@/components/Logo'
 import { MobileNavigation } from '@/components/MobileNavigation'
 import { Navigation } from '@/components/Navigation'
 import { Search } from '@/components/Search'
-
+import { Footer } from './Footer'
 
 function Header() {
-
-
   return (
     <header
       className={clsx(
@@ -41,7 +39,6 @@ function Header() {
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
-
   return (
     <div className="flex w-full flex-col">
       <Header />
@@ -56,6 +53,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         </div>
         {children}
       </div>
+        <Footer />
     </div>
   )
 }
